@@ -1,3 +1,3 @@
 # EVENING_JUNCTION
-Game clicker on the swift. \n
+Game clicker on the swift.
 Makes with Storybard's.
